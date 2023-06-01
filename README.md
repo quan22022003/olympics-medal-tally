@@ -65,6 +65,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - This project was inspired by the Olympics and the need for a system to track medal standings.
-- Special thanks to [Your Name] for their guidance and support.
+- Special thanks to Ben Nguyen for their guidance and support.
 
 Feel free to customize this README file according to your specific project requirements and add more sections as needed.
